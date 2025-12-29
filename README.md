@@ -43,7 +43,7 @@ Projected Impact: R$1-2M additional annual revenue
 ## Technical Details
 
 Database: Google BigQuery (Standard SQL)  
-Analysis: 25-30 SQL queries with CTEs, window functions, complex joins  
+Analysis: 25 SQL queries with CTEs, window functions, complex joins  
 Report: PDF
 
 ## Dataset
